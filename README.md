@@ -1,7 +1,9 @@
-## Hi friend
+## Hi friend 👋🏽
 
 My name is Tony
 
-Find me on the [🐦&nbsp;bird app](https://twitter.com/cephalization)
+I'm obsessed with user interfaces
 
-Let's talk about javascript, developer experience projects, and other cool tech things
+My site is at [anthonypowell.me](https://anthonypowell.me)
+
+Also find me on [🐘&nbsp;hachyderm](https://hachyderm.io/@cephalization) and other places as @cephalization
