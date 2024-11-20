@@ -6,4 +6,4 @@ I'm obsessed with user interfaces
 
 My site is at [anthonypowell.me](https://anthonypowell.me)
 
-Also find me on [🐘&nbsp;hachyderm](https://hachyderm.io/@cephalization) and other places as @cephalization
+Also find me on [🦋&nbsp;BlueSky](https://bsky.app/profile/anthonypowell.me) and other places as @cephalization
